@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
-        "mypage"
+        "gunicorn",
+        "mypage",
+        "whitenoise",
+        "wsgi"
     ]
 }
